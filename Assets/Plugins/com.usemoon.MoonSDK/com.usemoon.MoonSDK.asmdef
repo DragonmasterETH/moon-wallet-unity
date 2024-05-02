@@ -1,0 +1,7 @@
+{
+    "name": "com.usemoon.MoonSDK",
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ]
+}
